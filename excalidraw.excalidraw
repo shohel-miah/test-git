@@ -1,0 +1,85 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Eq524YK321GZ8fpOxbbBe",
+      "type": "diamond",
+      "x": 417.8385314941406,
+      "y": 148.0078125,
+      "width": 145.15621948242193,
+      "height": 118.65884399414062,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1786647382,
+      "version": 81,
+      "versionNonce": 2026086346,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1731649112136,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rn9eUuYq65wH2yIdx1xkF",
+      "type": "arrow",
+      "x": 560.3385009765625,
+      "y": 208.0078125,
+      "width": 5.15631103515625,
+      "height": 125.65103149414062,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 2056843030,
+      "version": 66,
+      "versionNonce": 963439702,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1731649121349,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          5.15631103515625,
+          125.65103149414062
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
